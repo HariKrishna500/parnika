@@ -7,6 +7,8 @@ public class Anil {
 		String str="jayakrishna";
 		
 		String str1="";
+
+		String str2="jayakrishna"; 
 		
 		
 		for(int i=10; i>=0; i--) {
