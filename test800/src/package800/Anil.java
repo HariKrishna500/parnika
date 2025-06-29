@@ -3,14 +3,8 @@ package package800;
 public class Anil {
 
 	public static void main(String[] args) {
-		
 		String str="jayakrishna";
-		
 		String str1="";
-
-		String str2="jayakrishna"; 
-		
-		
 		for(int i=10; i>=0; i--) {
 			
 			str1= str1+str.charAt(i);
